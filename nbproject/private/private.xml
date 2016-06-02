@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/desmond/NetBeansProjects/Misc/src/misc/handler/MiscCategoriesHandler.java</file>
+            <file>file:/home/desmond/NetBeansProjects/Misc/src/misc/JettyServer.java</file>
+            <file>file:/home/desmond/NetBeansProjects/Misc/src/misc/handler/MiscHTMLGetHandler.java</file>
+            <file>file:/home/desmond/NetBeansProjects/Misc/src/misc/handler/MiscPostHandler.java</file>
+            <file>file:/home/desmond/NetBeansProjects/Misc/src/misc/constants/Service.java</file>
+            <file>file:/home/desmond/NetBeansProjects/Misc/src/misc/constants/Params.java</file>
+            <file>file:/home/desmond/NetBeansProjects/Misc/nbproject/build-impl.xml</file>
+            <file>file:/home/desmond/NetBeansProjects/Misc/src/misc/handler/MiscListDocumentsHandler.java</file>
+            <file>file:/home/desmond/NetBeansProjects/Misc/src/misc/JettyServerThread.java</file>
+            <file>file:/home/desmond/NetBeansProjects/Misc/src/misc/handler/MiscGetHandler.java</file>
+            <file>file:/home/desmond/NetBeansProjects/Misc/src/misc/EncodingFilter.java</file>
+            <file>file:/home/desmond/NetBeansProjects/Misc/src/misc/MiscWebApp.java</file>
+        </group>
+    </open-files>
+</project-private>
